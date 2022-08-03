@@ -1,1 +1,0 @@
-start C:\Users\Lzhyrifx\AppData\Command\Lnk\bilibili.lnk
